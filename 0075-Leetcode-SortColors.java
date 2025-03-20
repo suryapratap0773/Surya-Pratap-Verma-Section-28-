@@ -32,3 +32,5 @@ public class SortColors {
         System.out.println(Arrays.toString(nums));
     }
 }
+//Expected Output-
+//[0,0,1,1,2,2]
